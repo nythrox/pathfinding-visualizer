@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/nythrox/pathfinding-visualizer/master/github/images/img.png">
+<br>
 See the project live [here](https://nythrox.github.io/pathfinding-visualizer/).
 <br>
 https://nythrox.github.io/pathfinding-visualizer/
