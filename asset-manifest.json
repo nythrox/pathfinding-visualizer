@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pathfinding-visualizer/static/css/main.f43b1f47.chunk.css",
+    "main.js": "/pathfinding-visualizer/static/js/main.7f873b6e.chunk.js",
+    "main.js.map": "/pathfinding-visualizer/static/js/main.7f873b6e.chunk.js.map",
+    "runtime-main.js": "/pathfinding-visualizer/static/js/runtime-main.ffd86344.js",
+    "runtime-main.js.map": "/pathfinding-visualizer/static/js/runtime-main.ffd86344.js.map",
+    "static/js/2.f5bef8d3.chunk.js": "/pathfinding-visualizer/static/js/2.f5bef8d3.chunk.js",
+    "static/js/2.f5bef8d3.chunk.js.map": "/pathfinding-visualizer/static/js/2.f5bef8d3.chunk.js.map",
+    "index.html": "/pathfinding-visualizer/index.html",
+    "precache-manifest.bbe50824dea10c59053426f844170270.js": "/pathfinding-visualizer/precache-manifest.bbe50824dea10c59053426f844170270.js",
+    "service-worker.js": "/pathfinding-visualizer/service-worker.js",
+    "static/css/main.f43b1f47.chunk.css.map": "/pathfinding-visualizer/static/css/main.f43b1f47.chunk.css.map",
+    "static/media/active_edit.ico": "/pathfinding-visualizer/static/media/active_edit.c35285a2.ico",
+    "static/media/active_eraser.ico": "/pathfinding-visualizer/static/media/active_eraser.a346124c.ico",
+    "static/media/edit-6-64.ico": "/pathfinding-visualizer/static/media/edit-6-64.5208802d.ico",
+    "static/media/eraser-64.ico": "/pathfinding-visualizer/static/media/eraser-64.34c544ba.ico",
+    "static/media/play-6-64.ico": "/pathfinding-visualizer/static/media/play-6-64.d2a1ab54.ico",
+    "static/media/reset.png": "/pathfinding-visualizer/static/media/reset.111f68e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffd86344.js",
+    "static/js/2.f5bef8d3.chunk.js",
+    "static/css/main.f43b1f47.chunk.css",
+    "static/js/main.7f873b6e.chunk.js"
+  ]
+}
